@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QinshanSun
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning JVM Redis and ...
+- 🌱 I’m currently learning Vue
 - 📫 How to reach me sun.qinshan92@gmail.com
 
 <!---
